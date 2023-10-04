@@ -1,3 +1,5 @@
+  This is a demo made in Construct 3 Game Engine.
+
 1) Goto https://editor.construct.net/ in your browser.
 2) Drag and drop "3D model viewer.c3p" from source code folder into the browser tab.
 3) Click on play button at top of the website.
